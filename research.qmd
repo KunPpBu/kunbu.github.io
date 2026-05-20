@@ -1,5 +1,7 @@
 ---
 title: "Research"
+description: "Research by Kun Bu in statistics, Bayesian modeling, Financial NeQTL, human-centered AI, pharmacovigilance, and data science education."
+
 ---
 
 My research focuses on developing statistical and data science methods for complex, high-dimensional, and interdisciplinary problems.

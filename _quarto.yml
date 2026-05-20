@@ -1,9 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google3b856b0b4c437423.html
 
 website:
-  title: "Kun(Amanda) Bu"
+  title: "Kun (Amanda) Bu"
+  site-url: "https://kunppbu.github.io/kunbu.github.io/"
   navbar:
     right:
       - text: Home

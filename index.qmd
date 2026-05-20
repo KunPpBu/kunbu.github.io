@@ -1,11 +1,12 @@
 ---
 title: "Kun (Amanda) Bu, Ph.D."
+description: "Kun Bu is an Assistant Professor of Data Science at Pepperdine University. Her research focuses on statistics, Bayesian modeling, financial market prediction, pharmacovigilance, healthcare data science, and human-centered AI."
+
 ---
 
 ## Assistant Professor of Data Science
 
-I am an incoming tenure-track Assistant Professor of Data Science at Pepperdine University, beginning Fall 2026. I am currently a postdoctoral scholar at the University of South Florida.
-
+I am Kun Bu, an incoming tenure-track Assistant Professor of Data Science at Pepperdine University. 
 My research lies at the intersection of statistics, data science, Bayesian modeling, and human-centered AI, with applications in financial market prediction, pharmacovigilance, healthcare data science, and statistics education.
 
 ## Research Interests

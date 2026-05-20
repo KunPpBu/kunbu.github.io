@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+description: "Publications by Kun Bu in statistics, data science, pharmacovigilance, machine learning, Bayesian modeling, and financial market prediction."
+
 ---
 
 1. *Financial NeQTL: A Genomics-Inspired Bayesian Approach to Market Structure Inference*, **Bu, K.** and Kim, J., manuscript completed, under review, 2026.
