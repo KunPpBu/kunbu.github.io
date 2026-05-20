@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You may download my current CV below.\nDownload CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Financial NeQTL: A Genomics-Inspired Bayesian Approach to Market Structure Inference, Bu, K. and Kim, J., manuscript completed, under review, 2026.\nCardiovascular Risks of COVID-19 Therapeutics: Integrated Analysis of FAERS, Electronic Health Records, and Transcriptomics, Zhu, X., Kuppa, S. A., Umeukeje, G., Morris, R., Bui, L., Bu, K., Zhang, J., Wei, J. and Cheng, F., Pharmaceuticals, 2026.\nIntegration of Image Segmentation with Classical \\(L_2\\) Optimization Theories of Statistics, Kim, J., Jang, J. and Bu, K., JSM Proceedings, 2025.\nThe Association Between Dexmedetomidine and Bradycardia, Morris, R., Kuppa, S., Zhu, X., Bu, K., Han, W. and Cheng, F., Genes, 2025.\nThe Association Between Statin Drugs and Rhabdomyolysis, Morris, R., Bu, K., Han, W., Wood, S., Velez, P., Ward, J., Crescitelli, A. and Martin, M., Genes, 2025.\nAdvancing Text Summarization and Classification: Deep Insights from Transformer-based Statistical Learning, Bu, K., University of South Florida, 2024.\nAnalysis of Literature-Derived Duplicate Records in the FDA Adverse Event Reporting System database, Han, W.*, Morris, R.*, Bu, K.*, Zhu, T., Huang, H. and Cheng, F., Canadian Journal of Physiology and Pharmacology, 2024.\nComparing the risk of deep vein thrombosis of two combined oral contraceptives, Stalas, J.*, Morris, R.*, Bu, K.*, et al., Heliyon, 2024.\nComparative Analysis of Sentiment in Original and Summarized Tweets, Bu, K. and Kandethody, R., AIBD, 2024.\nExploring Drug-drug Interaction Information from PubMed using Association Rules, Bu, K.*, Han, W.*, Morris, R.* and Cheng, F., Chemistry & Biodiversity, 2023.\nDeception Detection using Random Forest-based Ensemble Learning, Bu, K. and Kandethody, R., ICSTA, 2023.\nDysphagia Risk in Patients Prescribed Rivastigmine, Bu, K.*, Patel, D.*, Morris, R.*, Han, W., Umeukeje, G., Zhu, T. and Cheng, F., Journal of Alzheimer’s Disease, 2022.\nThe Association Between Use of Rivastigmine and Pneumonia, Morris, R.*, Umeukeje, G.*, Bu, K.* and Cheng, F., Journal of Alzheimer’s Disease, 2021.\nBradycardia due to Donepezil in Adults, Morris, R., Luboff, H., Jose, R. P., Eckhoff, K., Bu, K., et al., Journal of Alzheimer’s Disease, 2021.\nBayesian Reliability Analysis for Optical Media Using Accelerated Degradation Test Data, Bu, K., University of South Florida, 2020."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "I will join Pepperdine University as a tenure-track Assistant Professor of Data Science beginning Fall 2026."
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "News",
+    "section": "",
+    "text": "I will join Pepperdine University as a tenure-track Assistant Professor of Data Science beginning Fall 2026."
+  },
+  {
+    "objectID": "news.html#section-1",
+    "href": "news.html#section-1",
+    "title": "News",
+    "section": "2025",
+    "text": "2025\n\nContinued research on Financial NeQTL / FiNeQTL models for financial market prediction."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on developing statistical and data science methods for complex, high-dimensional, and interdisciplinary problems."
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nBayesian Modeling and Structured Inference\nI am interested in Bayesian methods, structured dependence modeling, and interpretable statistical learning.\n\n\nFinancial NeQTL / FiNeQTL\nMy current research develops genomics-inspired Bayesian frameworks for financial market prediction. This work adapts ideas from eQTL neighborhood structure to model relationships among sectors, industries, stock prices, and trading volume.\n\n\nHuman-Centered AI\nI am interested in responsible and human-centered AI systems that support decision-making, implementation, teaching, and research.\n\n\nPharmacovigilance and Healthcare Data Science\nMy prior work includes medication safety, adverse event detection, drug-drug interaction analysis, and pharmacovigilance studies using large-scale healthcare databases.\n\n\nStatistics and Data Science Education\nI also work on improving statistics and data science education through applied examples, computational tools, and accessible teaching materials."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2026\n\nCS 111: Programming Principles II\nDS 210: Introduction to Machine Learning"
+  },
+  {
+    "objectID": "teaching.html#pepperdine-university",
+    "href": "teaching.html#pepperdine-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2026\n\nCS 111: Programming Principles II\nDS 210: Introduction to Machine Learning"
+  },
+  {
+    "objectID": "teaching.html#university-of-south-florida",
+    "href": "teaching.html#university-of-south-florida",
+    "title": "Teaching",
+    "section": "University of South Florida",
+    "text": "University of South Florida\nSpring 2026\n\nSTA 5166: Statistical Methods I\n\nFall 2025\n\nSTA 3024: Introductory Statistics II\nSTA 4102: Computational Methods for Applied Statistics\n\nSpring 2025\n\nSTA 3024: Introductory Statistics II\nSTA 4504: Categorical Data Analysis\n\nFall 2024\n\nSTA 3024: Introductory Statistics II\n\nSpring 2024\n\nSTA 4442: Introduction to Probability\nSTA 2023: Introduction to Statistics I\n\nFall 2023\n\nSTA 4322: Introduction to Mathematical Statistics\nSTA 2023: Introduction to Statistics I"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Kun Bu, Ph.D.\nIncoming Assistant Professor of Data Science\nSeaver College, Pepperdine University\nPostdoctoral Scholar\nUniversity of South Florida\nEmail: kunbu@usf.edu"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "Kun Bu, Ph.D.\nIncoming Assistant Professor of Data Science\nSeaver College, Pepperdine University\nPostdoctoral Scholar\nUniversity of South Florida\nEmail: kunbu@usf.edu"
+  },
+  {
+    "objectID": "contact.html#links",
+    "href": "contact.html#links",
+    "title": "Contact",
+    "section": "Links",
+    "text": "Links\n\nGoogle Scholar\nLinkedIn\nGitHub\nORCID"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kun (Amanda) Bu, Ph.D.",
+    "section": "",
+    "text": "I am an incoming tenure-track Assistant Professor of Data Science at Pepperdine University, beginning Fall 2026. I am currently a postdoctoral scholar at the University of South Florida.\nMy research lies at the intersection of statistics, data science, Bayesian modeling, and human-centered AI, with applications in financial market prediction, pharmacovigilance, healthcare data science, and statistics education."
+  },
+  {
+    "objectID": "index.html#assistant-professor-of-data-science",
+    "href": "index.html#assistant-professor-of-data-science",
+    "title": "Kun (Amanda) Bu, Ph.D.",
+    "section": "",
+    "text": "I am an incoming tenure-track Assistant Professor of Data Science at Pepperdine University, beginning Fall 2026. I am currently a postdoctoral scholar at the University of South Florida.\nMy research lies at the intersection of statistics, data science, Bayesian modeling, and human-centered AI, with applications in financial market prediction, pharmacovigilance, healthcare data science, and statistics education."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Kun (Amanda) Bu, Ph.D.",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nBayesian modeling and structured statistical inference\nFinancial NeQTL / FiNeQTL models for interpretable market prediction\nHuman-centered AI and AI-supported decision-making\nPharmacovigilance, medication safety, and healthcare data science\nStatistics and data science education"
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "Kun (Amanda) Bu, Ph.D.",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\nI will join Pepperdine University as a tenure-track Assistant Professor of Data Science in Fall 2026.\nI am developing Financial NeQTL / FiNeQTL models for interpretable financial market prediction.\nI continue interdisciplinary research in statistics, healthcare, finance, AI, and education."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

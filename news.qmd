@@ -1,0 +1,11 @@
+---
+title: "News"
+---
+
+## 2026
+
+- I will join Pepperdine University as a tenure-track Assistant Professor of Data Science beginning Fall 2026.
+
+## 2025
+
+- Continued research on Financial NeQTL / FiNeQTL models for financial market prediction.

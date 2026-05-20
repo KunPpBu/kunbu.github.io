@@ -1,0 +1,22 @@
+---
+title: "Contact"
+---
+
+## Contact Information
+
+**Kun Bu, Ph.D.**  
+
+Incoming Assistant Professor of Data Science  
+Seaver College, Pepperdine University  
+
+Postdoctoral Scholar  
+University of South Florida  
+
+Email: [kunbu@usf.edu](mailto:kunbu@usf.edu)
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=7jhfNsIAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/kun-bu-usfmathstat/)
+- [GitHub](https://github.com/KunPpBu)
+- [ORCID](https://orcid.org/0009-0006-9526-3023)

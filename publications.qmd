@@ -1,0 +1,33 @@
+---
+title: "Publications"
+---
+
+1. *Financial NeQTL: A Genomics-Inspired Bayesian Approach to Market Structure Inference*, **Bu, K.** and Kim, J., manuscript completed, under review, 2026.
+
+2. *Cardiovascular Risks of COVID-19 Therapeutics: Integrated Analysis of FAERS, Electronic Health Records, and Transcriptomics*, Zhu, X., Kuppa, S. A., Umeukeje, G., Morris, R., Bui, L., **Bu, K.**, Zhang, J., Wei, J. and Cheng, F., *Pharmaceuticals*, 2026.
+
+3. *Integration of Image Segmentation with Classical $L_2$ Optimization Theories of Statistics*, Kim, J., Jang, J. and **Bu, K.**, *JSM Proceedings*, 2025.
+
+4. *The Association Between Dexmedetomidine and Bradycardia*, Morris, R., Kuppa, S., Zhu, X., **Bu, K.**, Han, W. and Cheng, F., *Genes*, 2025.
+
+5. *The Association Between Statin Drugs and Rhabdomyolysis*, Morris, R., **Bu, K.**, Han, W., Wood, S., Velez, P., Ward, J., Crescitelli, A. and Martin, M., *Genes*, 2025.
+
+6. *Advancing Text Summarization and Classification: Deep Insights from Transformer-based Statistical Learning*, **Bu, K.**, University of South Florida, 2024.
+
+7. *Analysis of Literature-Derived Duplicate Records in the FDA Adverse Event Reporting System database*, Han, W.\*, Morris, R.\*, **Bu, K.\***, Zhu, T., Huang, H. and Cheng, F., *Canadian Journal of Physiology and Pharmacology*, 2024.
+
+8. *Comparing the risk of deep vein thrombosis of two combined oral contraceptives*, Stalas, J.\*, Morris, R.\*, **Bu, K.\***, et al., *Heliyon*, 2024.
+
+9. *Comparative Analysis of Sentiment in Original and Summarized Tweets*, **Bu, K.** and Kandethody, R., AIBD, 2024.
+
+10. *Exploring Drug-drug Interaction Information from PubMed using Association Rules*, **Bu, K.\***, Han, W.\*, Morris, R.\* and Cheng, F., *Chemistry & Biodiversity*, 2023.
+
+11. *Deception Detection using Random Forest-based Ensemble Learning*, **Bu, K.** and Kandethody, R., ICSTA, 2023.
+
+12. *Dysphagia Risk in Patients Prescribed Rivastigmine*, **Bu, K.\***, Patel, D.\*, Morris, R.\*, Han, W., Umeukeje, G., Zhu, T. and Cheng, F., *Journal of Alzheimer's Disease*, 2022.
+
+13. *The Association Between Use of Rivastigmine and Pneumonia*, Morris, R.\*, Umeukeje, G.\*, **Bu, K.\*** and Cheng, F., *Journal of Alzheimer's Disease*, 2021.
+
+14. *Bradycardia due to Donepezil in Adults*, Morris, R., Luboff, H., Jose, R. P., Eckhoff, K., **Bu, K.**, et al., *Journal of Alzheimer's Disease*, 2021.
+
+15. *Bayesian Reliability Analysis for Optical Media Using Accelerated Degradation Test Data*, **Bu, K.**, University of South Florida, 2020.

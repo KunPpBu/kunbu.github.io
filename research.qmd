@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+My research focuses on developing statistical and data science methods for complex, high-dimensional, and interdisciplinary problems.
+
+## Research Areas
+
+### Bayesian Modeling and Structured Inference
+
+I am interested in Bayesian methods, structured dependence modeling, and interpretable statistical learning.
+
+### Financial NeQTL / FiNeQTL
+
+My current research develops genomics-inspired Bayesian frameworks for financial market prediction. This work adapts ideas from eQTL neighborhood structure to model relationships among sectors, industries, stock prices, and trading volume.
+
+### Human-Centered AI
+
+I am interested in responsible and human-centered AI systems that support decision-making, implementation, teaching, and research.
+
+### Pharmacovigilance and Healthcare Data Science
+
+My prior work includes medication safety, adverse event detection, drug-drug interaction analysis, and pharmacovigilance studies using large-scale healthcare databases.
+
+### Statistics and Data Science Education
+
+I also work on improving statistics and data science education through applied examples, computational tools, and accessible teaching materials.

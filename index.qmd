@@ -1,0 +1,23 @@
+---
+title: "Kun (Amanda) Bu, Ph.D."
+---
+
+## Assistant Professor of Data Science
+
+I am an incoming tenure-track Assistant Professor of Data Science at Pepperdine University, beginning Fall 2026. I am currently a postdoctoral scholar at the University of South Florida.
+
+My research lies at the intersection of statistics, data science, Bayesian modeling, and human-centered AI, with applications in financial market prediction, pharmacovigilance, healthcare data science, and statistics education.
+
+## Research Interests
+
+- Bayesian modeling and structured statistical inference
+- Financial NeQTL / FiNeQTL models for interpretable market prediction
+- Human-centered AI and AI-supported decision-making
+- Pharmacovigilance, medication safety, and healthcare data science
+- Statistics and data science education
+
+## Recent Updates
+
+- I will join Pepperdine University as a tenure-track Assistant Professor of Data Science in Fall 2026.
+- I am developing Financial NeQTL / FiNeQTL models for interpretable financial market prediction.
+- I continue interdisciplinary research in statistics, healthcare, finance, AI, and education.

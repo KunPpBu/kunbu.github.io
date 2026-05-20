@@ -1,0 +1,40 @@
+---
+title: "Teaching"
+---
+
+## Pepperdine University
+
+**Fall 2026**
+
+- CS 111: Programming Principles II
+- DS 210: Introduction to Machine Learning
+
+## University of South Florida
+
+**Spring 2026**
+
+- STA 5166: Statistical Methods I
+
+**Fall 2025**
+
+- STA 3024: Introductory Statistics II
+- STA 4102: Computational Methods for Applied Statistics
+
+**Spring 2025**
+
+- STA 3024: Introductory Statistics II
+- STA 4504: Categorical Data Analysis
+
+**Fall 2024**
+
+- STA 3024: Introductory Statistics II
+
+**Spring 2024**
+
+- STA 4442: Introduction to Probability
+- STA 2023: Introduction to Statistics I
+
+**Fall 2023**
+
+- STA 4322: Introduction to Mathematical Statistics
+- STA 2023: Introduction to Statistics I
